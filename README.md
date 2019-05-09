@@ -24,3 +24,7 @@ to next activity
 ## Required
 * Android Studio
 * java
+
+
+## Dependencies
+* [Android Studio](https://developer.android.com/studio/install)
